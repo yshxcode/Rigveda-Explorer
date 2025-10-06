@@ -428,9 +428,9 @@ This project is created with deep respect for Hindu tradition and Vedic knowledg
 ---
 
 ### Live Application
-🌐 **Experience the Rigveda Explorer**: [Visit Live Application](https://rigveda-explorer.vercel.app)
+🌐 **Experience the Rigveda Explorer**: [Visit Live Application](https://rigved-explorer-one.vercel.app)
 
 ### Contact & Support
-📧 **Issues & Feedback**: [GitHub Issues](https://github.com/yshxcode/RigvedExplorer/issues)
-📚 **Documentation**: [Project Documentation](https://github.com/yshxcode/RigvedExplorer/tree/dev/docs)
+📧 **Issues & Feedback**: [GitHub Issues](https://github.com/yshxcode/Rigved-Explorer/issues)
+📚 **Documentation**: [Project Documentation](https://github.com/yshxcode/Rigved-Explorer/)
 🔄 **Development Branch**: `dev` - Latest features and improvements
